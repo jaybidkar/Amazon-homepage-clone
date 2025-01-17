@@ -8,7 +8,7 @@ CSS: For styling and layout.
 
 To view the project, follow these steps:
 
-Clone the repository: https://github.com/your-username/amazon-homepage-clone.git
+Clone the repository: https://github.com/jaybidkar/Amazon-homepage-clone
 
 Screenshots of the project:
 <img width="1440" alt="amazon clone 1" src="https://github.com/user-attachments/assets/61e47b56-6feb-49a3-8807-731c7bb767bd" />
